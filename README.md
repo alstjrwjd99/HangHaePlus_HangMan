@@ -1,6 +1,6 @@
 # hangmangame
 
-A new Flutter project.
+항해 플러스 : 제 1회 코육대 행맨게임 참가 코드입니다 :)
 
 ## Getting Started
 
